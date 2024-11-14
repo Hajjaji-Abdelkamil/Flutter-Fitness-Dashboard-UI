@@ -1,6 +1,8 @@
-import 'package:fitness_dashboard_ui/model/bar_graph_model.dart';
-import 'package:fitness_dashboard_ui/model/graph_model.dart';
+
 import 'package:flutter/material.dart';
+
+import '../model/bar_graph_model.dart';
+import '../model/graph_model.dart';
 
 class BarGraphData {
   final data = [

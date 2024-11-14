@@ -1,8 +1,10 @@
-import 'package:fitness_dashboard_ui/const/constant.dart';
-import 'package:fitness_dashboard_ui/data/line_chart_data.dart';
-import 'package:fitness_dashboard_ui/widgets/custom_card_widget.dart';
+
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
+
+import '../const/constant.dart';
+import '../data/line_chart_data.dart';
+import 'custom_card_widget.dart';
 
 class LineChartCard extends StatelessWidget {
   const LineChartCard({super.key});

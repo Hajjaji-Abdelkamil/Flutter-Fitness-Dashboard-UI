@@ -1,5 +1,7 @@
-import 'package:fitness_dashboard_ui/model/graph_model.dart';
+
 import 'package:flutter/material.dart';
+
+import 'graph_model.dart';
 
 class BarGraphModel {
   final String label;

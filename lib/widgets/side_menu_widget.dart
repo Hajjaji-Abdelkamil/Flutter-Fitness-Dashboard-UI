@@ -1,6 +1,8 @@
-import 'package:fitness_dashboard_ui/const/constant.dart';
-import 'package:fitness_dashboard_ui/data/side_menu_data.dart';
+
 import 'package:flutter/material.dart';
+
+import '../const/constant.dart';
+import '../data/side_menu_data.dart';
 
 class SideMenuWidget extends StatefulWidget {
   const SideMenuWidget({super.key});

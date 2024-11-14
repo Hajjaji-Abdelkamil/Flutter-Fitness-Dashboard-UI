@@ -1,6 +1,8 @@
-import 'package:fitness_dashboard_ui/const/constant.dart';
-import 'package:fitness_dashboard_ui/util/responsive.dart';
+
 import 'package:flutter/material.dart';
+
+import '../const/constant.dart';
+import '../util/responsive.dart';
 
 class HeaderWidget extends StatelessWidget {
   const HeaderWidget({super.key});

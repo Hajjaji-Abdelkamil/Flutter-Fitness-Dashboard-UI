@@ -1,8 +1,10 @@
-import 'package:fitness_dashboard_ui/data/bar_graph_data.dart';
-import 'package:fitness_dashboard_ui/model/graph_model.dart';
-import 'package:fitness_dashboard_ui/widgets/custom_card_widget.dart';
+
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
+
+import '../data/bar_graph_data.dart';
+import '../model/graph_model.dart';
+import 'custom_card_widget.dart';
 
 class BarGraphCard extends StatelessWidget {
   const BarGraphCard({super.key});
